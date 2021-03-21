@@ -1,0 +1,14 @@
+{
+"users" : [
+{
+"name":"nadav komornik",
+"company":"new-ledge",
+"score":110
+},
+{
+"name":"israel israeli",
+"company":"Ministry of Defense",
+"score":60
+}
+]
+}
