@@ -1,16 +1,15 @@
 {
-  "users" : [
-      {
-        "id":1,
-        "name":"nadav komornik",
-        "company":"new-ledge",
-        "score":110
-      },
-      {
-        "id":2,
-        "name":"israel israeli",
-        "company":"Ministry of Defense",
-        "score":60
-      }
-  ]
+    "users": [{
+            "id": 1,
+            "name": "nadav komornik",
+            "company": "new-ledge",
+            "score": 110
+        },
+        {
+            "id": 2,
+            "name": "israel israeli",
+            "company": "Ministry of Defense",
+            "score": 75
+        }
+    ]
 }
